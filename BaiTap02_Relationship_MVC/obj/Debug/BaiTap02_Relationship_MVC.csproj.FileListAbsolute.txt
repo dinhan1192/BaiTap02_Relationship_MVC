@@ -82,3 +82,4 @@ D:\Lap Trinh\T1808A\MVC\BaiTap02_Relationship_MVC\BaiTap02_Relationship_MVC\BaiT
 D:\Lap Trinh\T1808A\MVC\BaiTap02_Relationship_MVC\BaiTap02_Relationship_MVC\BaiTap02_Relationship_MVC\obj\Debug\BaiTap02_Relationship_MVC.csproj.CopyComplete
 D:\Lap Trinh\T1808A\MVC\BaiTap02_Relationship_MVC\BaiTap02_Relationship_MVC\BaiTap02_Relationship_MVC\obj\Debug\BaiTap02_Relationship_MVC.dll
 D:\Lap Trinh\T1808A\MVC\BaiTap02_Relationship_MVC\BaiTap02_Relationship_MVC\BaiTap02_Relationship_MVC\obj\Debug\BaiTap02_Relationship_MVC.pdb
+D:\Lap Trinh\T1808A\MVC\BaiTap02_Relationship_MVC\BaiTap02_Relationship_MVC\BaiTap02_Relationship_MVC\obj\Debug\BaiTap02_Relationship_MVC.csprojAssemblyReference.cache
